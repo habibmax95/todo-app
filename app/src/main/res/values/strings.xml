@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">todo-app</string>
+    <string name="welcome_to_do">Welcome to ToDo App</string>
 </resources>
